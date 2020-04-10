@@ -1,4 +1,4 @@
-# i_am_rich
+# Udemy Flutter Development Bootcamp: i-am-rich-flutter
 
 Recreates the infamous "I am Rich" app.
 
